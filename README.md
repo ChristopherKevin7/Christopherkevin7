@@ -4,8 +4,8 @@ A procura do primeiro estagio na area.
 
 <div>
   <a href="https://github.com/ChristopherKevin7">
-  <img align="left" width="500" height="180em" src="https://github-readme-stats.vercel.app/api?username=ChristopherKevin7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15"/>
-  <img align="right" width="500" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherKevin7&layout=compact&langs_count=7&title_color=DC143C&bg_color=DEG,000000,363636,000000&border_color=8A2BE2&border_radius=15"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChristopherKevin7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15"/>
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopherKevin7&layout=compact&langs_count=7&title_color=DC143C&bg_color=DEG,000000,363636,000000&border_color=8A2BE2&border_radius=15"/>
 </div>
 <div style="display: inline_block">
   
