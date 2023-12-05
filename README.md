@@ -1,6 +1,7 @@
-Olá meu nome é kevin!<br>
-Sou estudante de Engenharia da computação pela Facens.<br>
-A procura do primeiro estagio na area.
+Olá! Eu sou Christopher Kevin, um estudante de Engenharia da Computação na Facens. <br>
+Este é o meu espaço no GitHub, onde compartilho projetos que refletem minha paixão pela resolução criativa de problemas. <br>
+Ao explorar esses projetos, você verá meu comprometimento com a excelência técnica e meu entusiasmo pelo mundo da computação.<br>
+Estou animado com as possibilidades futuras e pronto para contribuir em ambientes desafiadores. <br> Obrigado por visitar!
 
 <div>
   <a href="https://github.com/ChristopherKevin7">
