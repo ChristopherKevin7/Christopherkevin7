@@ -19,7 +19,6 @@ nome    : Christopher Kevin Costa
 cargo   : Engenheiro de Computação (em formação)
 empresa : GFT
 foco    : Desenvolvimento de Software · Automação · IA
-motto   : "Sempre em busca de novos desafios e aprendizados 🚀"
 ```
 
 Sou um desenvolvedor em constante evolução, com experiência em projetos que vão desde **aplicações web full-stack** até **análise de dados com Machine Learning**. Na GFT, aplico meus conhecimentos em desafios reais, colaborando com soluções tecnológicas inovadoras.
